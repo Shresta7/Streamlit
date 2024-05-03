@@ -38,4 +38,3 @@ if st.button('Predict Rating'):
     # Display the prediction
     st.write(f"Predicted Rating: {prediction[0]:.2f}")
 
-# Optionally, add more interactive or informative elements as needed
